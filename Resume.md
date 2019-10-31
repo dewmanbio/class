@@ -33,7 +33,7 @@ Currently a Junior at Utah Valley University pursuing higher education in the fi
 * Provided subordinate commands and Joint Task Forces with real-time Geospatial intelligence products in support of crisis response planning and operations.
 
 ## EMPLOYMENT
-U.S. MARINE CORPS, Various Duty Stations Globally 2005-2014
+U.S. MARINE CORPS, Various Duty Stations Globally 2005-2014\
 **_Geospatial Analyst, 2nd Intelligence Battalion, 2010 – 2014_**
 **_Geospatial Support Team Chief, 3D MLG G-2, 2009 – 2010_**
 **_Air Traffic Controller / Trainee, II MAW, HQ, 2005-2008_**
