@@ -23,3 +23,14 @@ Currently a Junior at Utah Valley University pursuing higher education in the fi
 * Extremely strong expertise in topographic systems and product format requirements to produce detailed terrain analysis, graphics and imagery-based topographic products.
 * Produced detailed Geospatial Intelligence products in collaboration with Joint Task Force North (JTF North). 
 * Produced multiple Geospatial products to support contingency planning for Humanitarian Assistance/Disaster Relief throughout USPACOM’s Area of Responsibility (AOR). 
+
+**_Leadership & Supervision:_** A superior leader with demonstrated performance in high-pressure environments.  Improved organizational performance through hands-on training and a leadership approach that emphasized decision-making through active listening. 
+* Superbly managed and motivated multiple personnel including subordinate supervisors; earned a reputation for firm, yet compassionate mentorship. 
+* Designed and implemented integrated training programs in close collaboration with senior leadership, analyzing current training demands and devising innovative and appropriate solutions.
+
+**_Problem-Solving & Analysis:_**  Consistently implements keen analytical abilities and a proven team-based work dynamic with a systems-oriented approach to facilitate efficient and effective solutions.  A critical thinker open to alternative views to optimize decision-making. 
+* Expertly managed the cataloguing of numerous volumes of critical soft-copy datasets. 
+* Provided subordinate commands and Joint Task Forces with real-time Geospatial intelligence products in support of crisis response planning and operations.
+
+## EMPLOYMENT
+U.S. MARINE CORPS, Various Duty Stations Globally | 2005-2014
