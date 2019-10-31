@@ -17,4 +17,4 @@ Currently a Junior at Utah Valley University pursuing higher education in the fi
 
 ## PROFESSIONAL EXPERIENCE
 
-**__Intelligence Analysis: __** Highly organized with ability to manage multiple intelligence projects, tasks and priorities effectively and in timely manner in multi-service environments.  Career highlighted by success and constant achievement.  Resourceful and adaptable, exercising superb competence in all assignments.
+**_Intelligence Analysis:_** Highly organized with ability to manage multiple intelligence projects, tasks and priorities effectively and in timely manner in multi-service environments.  Career highlighted by success and constant achievement.  Resourceful and adaptable, exercising superb competence in all assignments.
