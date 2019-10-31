@@ -61,7 +61,7 @@ Awarded the following Military Occupational Specialties (MOSs) concurrent with t
 
 **_Selecte Military Training:_**  Chemical, Biological, Radiological and Nuclear (CBRN) Training; Sergeant’s Distance Education Program; Corporal’s Noncommissioned Officers (NCO) Program; Principles of Instruction for the Marine Noncommissioned Officer (NCO); Mathematics for Marines; Personal Financial Management; Fundamentals of Marine Corps Leadership; Terrorism Awareness; Advanced Geodetic Survey; Marine Combat Training; Recruit Training
 
-**_Computer Skills:_**  Integrated Exploitation Capability (IEC); Web-Based Access Retrieval Portal (WARP); National Exploitation System (NES); Imagery Exploitation Support System (IESS); eTPR; MASWEB; WIDOW; Remote View; Socket GXP; ArcGIS; AGITK; Falconview; Google Earth; Web Fishtools; Distributed Common Ground System-Intelligence Community (DCGS-IC); Open Source Center; Intelink; GEMINI; GERT; IPL & Q2 Systems Administrator; MS Office Suite; C++; C#; Json; Python 
+**_Computer Skills:_**  Integrated Exploitation Capability (IEC); Web-Based Access Retrieval Portal (WARP); National Exploitation System (NES); Imagery Exploitation Support System (IESS); eTPR; MASWEB; WIDOW; Remote View; Socket GXP; ArcGIS; AGITK; Falconview; Google Earth; Web Fishtools; Distributed Common Ground System-Intelligence Community (DCGS-IC); Open Source Center; Intelink; GEMINI; GERT; IPL & Q2 Systems Administrator; MS Office Suite; C++; C#; Json; Python; html5 ; CSS 
 
 **_Selected Awards:_**  Navy & Marine Corps Achievement Medal, Marine Corps Good Conduct Medal (x3) 
 
